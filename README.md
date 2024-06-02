@@ -15,10 +15,4 @@ Gemini Info Extractor is a versatile Generative AI project that leverages the Go
 - python-dotenv
 
 
-Gemini_Info_Extractor/
-│
-├── app.py              # General Q&A application file
-├── QA_Chat.py          # Chat-based Q&A application file
-├── vision.py           # Image-based Q&A application file
-├── requirements.txt    # Python package dependencies
-└── .env                # Environment variables file
+
