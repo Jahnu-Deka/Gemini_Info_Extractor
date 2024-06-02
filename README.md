@@ -7,7 +7,7 @@ Gemini Info Extractor is a versatile Generative AI project that leverages the Go
 ## Features
 - **General Q&A**: Ask any question through a text input and get responses from the AI.
 - **Chat-based Q&A**: Engage in a conversational chat with the AI.
-- **Image-based Q&A**: Upload images in JPEG or PNG format and extract detailed information from the image using AI.
+- **Image-based Q&A**: Upload images in JPG orJPEG or PNG format and extract detailed information from the image using AI.
 
 ## Requirements
 - streamlit
